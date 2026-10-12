@@ -1,0 +1,6 @@
+[submodule "bookbot"]
+	path = bookbot
+	url = https://github.com/Mahm0udAbbas/bookbot.git
+[submodule "webflyx"]
+	path = webflyx
+	url = https://github.com/Mahm0udAbbas/webflyx.git
